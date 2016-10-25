@@ -1,1 +1,5 @@
 Testing 123
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are remote are like a new branch in your own repository, clones get teh current remote repository and branches are local.
